@@ -26,12 +26,12 @@ Wallet adalah aplikasi web pencatat keuangan sederhana dengan tampilan modern. D
 ### ⚙️ Settings
 - Ubah nama profil dengan mudah.  
 - Kelola kategori transaksi.  
-- Export seluruh data ke format **Excel (.xlsx)** menggunakan **SheetJS**:contentReference[oaicite:3]{index=3}.  
+- Export seluruh data ke format **Excel (.xlsx)** menggunakan **SheetJS**.
 
 ---
 
 ## 🎨 Desain & UX
-- Tampilan modern bergaya **glassmorphism** dengan efek blur, shadow, dan animasi halus:contentReference[oaicite:4]{index=4}.  
+- Tampilan modern bergaya **glassmorphism** dengan efek blur, shadow, dan animasi halus.  
 - Navigasi bawah ala aplikasi mobile.  
 - Animasi *reveal on scroll* untuk transisi yang lebih hidup.  
 - **Responsif**: nyaman digunakan di desktop maupun smartphone.  
@@ -42,7 +42,7 @@ Wallet adalah aplikasi web pencatat keuangan sederhana dengan tampilan modern. D
 - **HTML5** — Struktur halaman.  
 - **CSS3** (Glassmorphism, Animasi) — Tampilan modern dan responsif.  
 - **JavaScript (Vanilla JS)** — Logika aplikasi, CRUD dompet/transaksi, statistik, export Excel.  
-- **React + Vite** — Build tooling modern:contentReference[oaicite:5]{index=5}:contentReference[oaicite:6]{index=6}.  
+- **React + Vite** — Build tooling modern
 - **SheetJS (xlsx)** — Export data ke Excel.  
 - **Font Awesome** — Ikon navigasi dan UI.  
 
@@ -74,7 +74,7 @@ Wallet adalah aplikasi web pencatat keuangan sederhana dengan tampilan modern. D
 ---
 
 ## 📌 Catatan
-- Data disimpan di **localStorage** browser, jadi aman dan tidak butuh server/database:contentReference[oaicite:7]{index=7}.  
+- Data disimpan di **localStorage** browser, jadi aman dan tidak butuh server/database. 
 - Jika data dihapus, cukup clear cache/localStorage browser.  
 - Cocok untuk **pengguna personal** yang ingin mengatur keuangan secara ringan dan praktis.  
 
