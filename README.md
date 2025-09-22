@@ -1,6 +1,6 @@
 # Wallet — Aplikasi Pencatat Keuangan Pribadi
 
-Wallet adalah aplikasi web pencatat keuangan sederhana dengan tampilan modern. Dibuat menggunakan **HTML, CSS, dan JavaScript**, dengan tambahan bundling melalui **Vite**. Aplikasi ini membantu kamu mengelola dompet, mencatat transaksi (pemasukan, pengeluaran, maupun hutang), serta menganalisis laporan keuangan bulanan maupun tahunan dengan mudah dan cepat:contentReference[oaicite:0]{index=0}:contentReference[oaicite:1]{index=1}:contentReference[oaicite:2]{index=2}.  
+Wallet adalah aplikasi web pencatat keuangan sederhana dengan tampilan modern. Dibuat menggunakan **HTML, CSS, dan JavaScript**, dengan tambahan bundling melalui **Vite**. Aplikasi ini membantu kamu mengelola dompet, mencatat transaksi (pemasukan, pengeluaran, maupun hutang), serta menganalisis laporan keuangan bulanan maupun tahunan dengan mudah dan cepat. Ini adalah versi lain dari Finnote yang di bangun menggunakan React agar lebih mudah di maintenance atau di modifikasi.
 
 ---
 
